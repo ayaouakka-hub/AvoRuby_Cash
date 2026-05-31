@@ -397,6 +397,9 @@ def _build_44_features(form_data: dict, rendement: float, prix: float,
     iot_sondes = int(form_data.get("iot_sondes", 0))
     filets_serres = int(form_data.get("filets_serres", 0))
 
+    # Calcul anticipé pour éviter l'erreur d'association locale
+    score_technologie = irrigation + solaire + iot_sondes + filets_serres
+
     surface_barrage_norm = _LOC_BARRAGE_NORM.get(localisation, 0.4)
     jours_stress = max(0, int((vpd - 2.0) * 15))
 
@@ -420,9 +423,7 @@ def _build_44_features(form_data: dict, rendement: float, prix: float,
     _bonus_gamma    = gamma * 8          # assurance = max +8 pts
     _bonus_tech     = score_technologie * 3  # chaque équipement = +3 pts
     _malus_exp      = max(0, (3 - experience) * 2)  # <3 ans = malus
-    sabc_v6 = max(0, min(88,
-    _base_score + _bonus_gamma + _bonus_tech - _malus_exp
-))
+    sabc_v6 = max(0, min(88, _base_score + _bonus_gamma + _bonus_tech - _malus_exp))
 
     # ── 20 original numeric features ──
     num_orig = {
@@ -449,8 +450,6 @@ def _build_44_features(form_data: dict, rendement: float, prix: float,
     }
 
     # ── 21 derived features (formulas from training notebook) ──
-    score_technologie = irrigation + solaire + iot_sondes + filets_serres
-
     num_derived = {
         "marge_nette_ratio":       revenu_net / (revenu_brut + 1),
         "liquidite_ratio":         revenu_brut / (charges_totales + 1),
@@ -497,7 +496,6 @@ def _build_44_features(form_data: dict, rendement: float, prix: float,
     df[cat_columns] = oe.transform(df[cat_columns])
 
     return df
-
 
 # ══════════════════════════════════════════════════════
 # 6. MAIN PREDICTION FUNCTION
