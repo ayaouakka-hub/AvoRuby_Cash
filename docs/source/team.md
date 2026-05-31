@@ -35,4 +35,4 @@ Program: Intelligence Artificielle et Sciences des Donnees
 
 Academic Year: 2025–2026
 
-[![GitHub](https://img.shields.io/badge/GitHub-AvoRuby_Cash-0c1f13?style=flat-square&logo=github)](https://github.com/ayaouakka-hub/AvoRuby_Cash_Project)
+[![GitHub](https://img.shields.io/badge/GitHub-AvoRuby_Cash-0c1f13?style=flat-square&logo=github)](https://github.com/ayaouakka-hub/AvoRuby_Cash)

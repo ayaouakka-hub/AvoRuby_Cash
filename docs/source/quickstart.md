@@ -15,9 +15,8 @@
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/ayaouakka-hub/AvoRuby_Cash_Project.git
-cd AvoRuby_Cash_Project
-git checkout interface
+git clone https://github.com/ayaouakka-hub/AvoRuby_Cash.git
+cd AvoRuby_Cash
 ```
 
 ### Step 2 — Create and Activate Virtual Environment

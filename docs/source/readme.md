@@ -407,7 +407,7 @@ Design system: Forest green `#0c1f13` / Crimson red `#c0392b` / Off-white `#f4f1
 ## 9. Project Structure
 
 ```
-AvoRuby_Cash_Project/
+AvoRuby_Cash/
 |
 +-- app.py                          # Main Streamlit application
 +-- requirements.txt
@@ -483,8 +483,8 @@ AvoRuby_Cash_Project/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/ayaouakka-hub/AvoRuby_Cash_Project.git
-cd AvoRuby_Cash_Project
+git clone https://github.com/ayaouakka-hub/AvoRuby_Cash.git
+cd AvoRuby_Cash
 git checkout interface
 ```
 
@@ -649,7 +649,7 @@ Year: 3rd year — 2025–2026
 | **Aya Ouakka** | ML engineering, model training, Streamlit interface, MLOps |
 | **Hiba Boutahir** | Data engineering, RAG pipeline, feature design, knowledge base |
 
-GitHub: [ayaouakka-hub/AvoRuby_Cash_Project](https://github.com/ayaouakka-hub/AvoRuby_Cash_Project)
+GitHub: [ayaouakka-hub/AvoRuby_Cash](https://github.com/ayaouakka-hub/AvoRuby_Cash)
 
 ### Academic Supervisor
 
