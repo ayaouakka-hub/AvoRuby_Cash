@@ -1,0 +1,301 @@
+ID_Agriculteur,Culture,Superficie_ha,Localisation,Irrigation,Solaire,IoT_sondes,Filets_Serres,Type_Sol,Gamma
+AGR-001,Fruits_Rouges,6.6,Moulay Bousselham,0,1,2,1,Limoneux,0.68
+AGR-002,Avocat,14.3,Kenitra,1,0,0,1,Limoneux,0.65
+AGR-003,Avocat,11.4,Moulay Bousselham,1,1,1,0,Argileux,0.47
+AGR-004,Avocat,9.6,Kenitra,1,1,1,1,Limoneux,0.87
+AGR-005,Fruits_Rouges,3.6,Agadir,1,0,0,1,Sableux,0.65
+AGR-006,Fruits_Rouges,3.6,Agadir,1,0,0,0,Argileux,0.25
+AGR-007,Fruits_Rouges,2.3,Marrakech,1,1,0,0,Sableux,0.4
+AGR-008,Avocat,13.2,Moulay Bousselham,1,1,0,1,Argileux,0.8
+AGR-009,Avocat,9.6,Larache,0,0,0,0,Limoneux,0.0
+AGR-010,Avocat,11.1,Moulay Bousselham,0,1,1,0,Sableux,0.22
+AGR-011,Avocat,1.8,Moulay Bousselham,1,0,0,1,Limoneux,0.65
+AGR-012,Fruits_Rouges,14.6,Marrakech,0,1,1,1,Sableux,0.62
+AGR-013,Avocat,12.7,Marrakech,1,0,3,1,Sableux,0.85
+AGR-014,Avocat,4.4,Agadir,1,1,0,1,Limoneux,0.8
+AGR-015,Fruits_Rouges,4.0,Larache,1,1,1,0,Argileux,0.47
+AGR-016,Fruits_Rouges,4.0,Moulay Bousselham,1,0,2,1,Sableux,0.78
+AGR-017,Avocat,5.6,Kenitra,1,1,2,1,Argileux,0.93
+AGR-018,Fruits_Rouges,8.6,Larache,0,1,0,0,Limoneux,0.15
+AGR-019,Fruits_Rouges,7.3,Agadir,1,1,0,0,Sableux,0.4
+AGR-020,Avocat,5.4,Moulay Bousselham,0,1,0,1,Argileux,0.55
+AGR-021,Fruits_Rouges,9.8,Moulay Bousselham,0,1,1,0,Limoneux,0.22
+AGR-022,Fruits_Rouges,3.4,Moulay Bousselham,0,1,2,0,Limoneux,0.28
+AGR-023,Avocat,5.4,Moulay Bousselham,0,1,1,1,Sableux,0.62
+AGR-024,Avocat,6.4,Moulay Bousselham,0,1,0,0,Sableux,0.15
+AGR-025,Fruits_Rouges,7.7,Agadir,1,1,2,0,Sableux,0.53
+AGR-026,Avocat,12.1,Larache,1,0,0,1,Argileux,0.65
+AGR-027,Avocat,4.2,Marrakech,0,0,2,0,Sableux,0.13
+AGR-028,Avocat,8.4,Moulay Bousselham,0,0,2,0,Argileux,0.13
+AGR-029,Fruits_Rouges,9.5,Moulay Bousselham,1,1,0,0,Sableux,0.4
+AGR-030,Fruits_Rouges,2.1,Moulay Bousselham,1,0,3,1,Sableux,0.85
+AGR-031,Fruits_Rouges,9.7,Moulay Bousselham,1,0,1,0,Limoneux,0.32
+AGR-032,Fruits_Rouges,3.8,Marrakech,1,1,1,1,Limoneux,0.87
+AGR-033,Fruits_Rouges,2.4,Larache,0,0,1,0,Sableux,0.07
+AGR-034,Fruits_Rouges,14.3,Agadir,0,0,2,0,Sableux,0.13
+AGR-035,Avocat,14.5,Moulay Bousselham,0,0,1,1,Sableux,0.47
+AGR-036,Fruits_Rouges,12.4,Moulay Bousselham,0,1,0,0,Sableux,0.15
+AGR-037,Fruits_Rouges,5.6,Marrakech,0,0,0,1,Argileux,0.4
+AGR-038,Fruits_Rouges,2.8,Moulay Bousselham,0,1,0,0,Limoneux,0.15
+AGR-039,Fruits_Rouges,10.7,Kenitra,1,1,0,0,Argileux,0.4
+AGR-040,Fruits_Rouges,7.4,Marrakech,0,0,0,1,Sableux,0.4
+AGR-041,Fruits_Rouges,3.1,Larache,1,1,0,1,Argileux,0.8
+AGR-042,Avocat,8.2,Marrakech,1,0,1,0,Sableux,0.32
+AGR-043,Avocat,2.0,Agadir,1,1,0,0,Limoneux,0.4
+AGR-044,Avocat,13.8,Agadir,0,1,0,0,Limoneux,0.15
+AGR-045,Avocat,5.0,Marrakech,1,0,0,0,Sableux,0.25
+AGR-046,Avocat,10.4,Moulay Bousselham,1,0,2,1,Sableux,0.78
+AGR-047,Avocat,5.7,Moulay Bousselham,1,1,0,1,Limoneux,0.8
+AGR-048,Avocat,8.5,Marrakech,1,0,2,1,Argileux,0.78
+AGR-049,Fruits_Rouges,8.9,Larache,1,1,2,1,Argileux,0.93
+AGR-050,Avocat,4.0,Marrakech,1,1,1,1,Argileux,0.87
+AGR-051,Avocat,14.6,Moulay Bousselham,0,1,1,1,Limoneux,0.62
+AGR-052,Avocat,12.0,Kenitra,0,1,0,0,Argileux,0.15
+AGR-053,Avocat,14.2,Moulay Bousselham,1,1,1,0,Argileux,0.47
+AGR-054,Fruits_Rouges,13.6,Agadir,1,1,2,0,Sableux,0.53
+AGR-055,Fruits_Rouges,9.6,Moulay Bousselham,1,0,2,0,Sableux,0.38
+AGR-056,Fruits_Rouges,13.9,Agadir,1,1,0,1,Limoneux,0.8
+AGR-057,Avocat,2.7,Moulay Bousselham,0,0,2,0,Sableux,0.13
+AGR-058,Fruits_Rouges,4.1,Marrakech,1,0,1,1,Argileux,0.72
+AGR-059,Avocat,2.1,Agadir,0,0,0,0,Sableux,0.0
+AGR-060,Avocat,5.9,Kenitra,0,1,0,1,Sableux,0.55
+AGR-061,Fruits_Rouges,6.7,Larache,1,1,0,1,Sableux,0.8
+AGR-062,Fruits_Rouges,5.2,Marrakech,0,0,0,1,Limoneux,0.4
+AGR-063,Fruits_Rouges,12.7,Larache,1,1,0,0,Argileux,0.4
+AGR-064,Fruits_Rouges,6.3,Kenitra,0,1,2,0,Sableux,0.28
+AGR-065,Fruits_Rouges,5.3,Marrakech,1,0,0,1,Argileux,0.65
+AGR-066,Fruits_Rouges,8.8,Kenitra,1,0,1,1,Argileux,0.72
+AGR-067,Avocat,3.4,Marrakech,1,0,1,0,Argileux,0.32
+AGR-068,Avocat,12.3,Larache,0,1,0,1,Argileux,0.55
+AGR-069,Avocat,2.5,Agadir,1,0,0,1,Argileux,0.65
+AGR-070,Avocat,14.8,Moulay Bousselham,1,1,0,0,Argileux,0.4
+AGR-071,Avocat,11.9,Kenitra,1,0,0,1,Sableux,0.65
+AGR-072,Fruits_Rouges,4.2,Larache,1,0,1,1,Sableux,0.72
+AGR-073,Fruits_Rouges,1.6,Larache,1,1,0,0,Argileux,0.4
+AGR-074,Avocat,12.5,Larache,0,1,0,1,Sableux,0.55
+AGR-075,Fruits_Rouges,11.0,Marrakech,1,0,0,0,Argileux,0.25
+AGR-076,Avocat,11.3,Agadir,1,0,0,1,Limoneux,0.65
+AGR-077,Fruits_Rouges,11.9,Larache,1,0,0,1,Sableux,0.65
+AGR-078,Avocat,2.5,Marrakech,1,1,1,1,Argileux,0.87
+AGR-079,Avocat,6.3,Marrakech,0,0,2,0,Argileux,0.13
+AGR-080,Avocat,3.1,Moulay Bousselham,0,0,1,1,Argileux,0.47
+AGR-081,Fruits_Rouges,13.2,Larache,1,0,0,0,Limoneux,0.25
+AGR-082,Avocat,9.9,Marrakech,0,1,0,1,Limoneux,0.55
+AGR-083,Fruits_Rouges,6.0,Marrakech,0,0,1,0,Sableux,0.07
+AGR-084,Fruits_Rouges,2.4,Kenitra,0,0,0,0,Sableux,0.0
+AGR-085,Avocat,5.7,Kenitra,0,1,1,0,Argileux,0.22
+AGR-086,Avocat,5.9,Marrakech,1,1,1,0,Argileux,0.47
+AGR-087,Fruits_Rouges,11.3,Agadir,1,1,3,0,Sableux,0.6
+AGR-088,Fruits_Rouges,10.1,Kenitra,0,0,2,1,Argileux,0.53
+AGR-089,Avocat,13.5,Moulay Bousselham,0,1,0,0,Limoneux,0.15
+AGR-090,Avocat,7.9,Larache,1,0,1,1,Argileux,0.72
+AGR-091,Avocat,3.1,Moulay Bousselham,1,0,0,1,Argileux,0.65
+AGR-092,Fruits_Rouges,11.1,Larache,1,0,0,1,Argileux,0.65
+AGR-093,Fruits_Rouges,11.8,Marrakech,1,0,3,0,Sableux,0.45
+AGR-094,Avocat,9.1,Kenitra,1,0,1,1,Limoneux,0.72
+AGR-095,Avocat,11.9,Agadir,1,1,0,1,Limoneux,0.8
+AGR-096,Avocat,8.2,Marrakech,1,0,1,0,Limoneux,0.32
+AGR-097,Fruits_Rouges,8.6,Kenitra,1,0,3,0,Limoneux,0.45
+AGR-098,Fruits_Rouges,7.3,Kenitra,1,0,0,0,Limoneux,0.25
+AGR-099,Fruits_Rouges,1.8,Larache,1,1,0,0,Limoneux,0.4
+AGR-100,Fruits_Rouges,3.0,Kenitra,1,1,2,0,Argileux,0.53
+AGR-101,Avocat,1.9,Kenitra,1,0,2,1,Argileux,0.78
+AGR-102,Fruits_Rouges,10.1,Marrakech,1,1,1,0,Sableux,0.47
+AGR-103,Fruits_Rouges,5.7,Kenitra,1,0,2,1,Sableux,0.78
+AGR-104,Fruits_Rouges,8.4,Moulay Bousselham,0,1,1,1,Argileux,0.62
+AGR-105,Avocat,13.8,Larache,0,0,1,1,Limoneux,0.47
+AGR-106,Fruits_Rouges,4.9,Agadir,0,0,1,1,Sableux,0.47
+AGR-107,Avocat,7.0,Agadir,1,0,1,1,Argileux,0.72
+AGR-108,Avocat,11.7,Kenitra,1,0,0,1,Limoneux,0.65
+AGR-109,Avocat,4.6,Larache,0,1,0,0,Argileux,0.15
+AGR-110,Fruits_Rouges,2.5,Marrakech,0,0,0,0,Limoneux,0.0
+AGR-111,Fruits_Rouges,5.4,Moulay Bousselham,1,1,0,1,Limoneux,0.8
+AGR-112,Avocat,3.7,Larache,1,1,0,1,Limoneux,0.8
+AGR-113,Fruits_Rouges,14.1,Larache,1,0,3,1,Argileux,0.85
+AGR-114,Avocat,12.4,Marrakech,1,0,0,1,Argileux,0.65
+AGR-115,Fruits_Rouges,10.1,Agadir,1,1,0,0,Limoneux,0.4
+AGR-116,Fruits_Rouges,13.3,Agadir,0,0,0,1,Argileux,0.4
+AGR-117,Avocat,12.3,Marrakech,0,0,0,0,Argileux,0.0
+AGR-118,Fruits_Rouges,4.0,Kenitra,1,0,2,1,Limoneux,0.78
+AGR-119,Fruits_Rouges,13.5,Moulay Bousselham,0,0,0,0,Argileux,0.0
+AGR-120,Avocat,8.8,Agadir,0,1,2,1,Limoneux,0.68
+AGR-121,Fruits_Rouges,12.4,Kenitra,0,0,2,0,Sableux,0.13
+AGR-122,Fruits_Rouges,13.6,Larache,1,0,2,1,Limoneux,0.78
+AGR-123,Fruits_Rouges,5.8,Agadir,1,1,0,1,Limoneux,0.8
+AGR-124,Fruits_Rouges,3.0,Larache,1,0,0,0,Limoneux,0.25
+AGR-125,Avocat,4.6,Kenitra,1,0,2,0,Argileux,0.38
+AGR-126,Avocat,7.3,Marrakech,1,1,0,0,Limoneux,0.4
+AGR-127,Avocat,12.5,Larache,1,0,0,0,Sableux,0.25
+AGR-128,Fruits_Rouges,13.1,Agadir,0,1,0,0,Sableux,0.15
+AGR-129,Fruits_Rouges,1.6,Larache,0,0,2,0,Limoneux,0.13
+AGR-130,Fruits_Rouges,8.4,Larache,1,0,2,1,Sableux,0.78
+AGR-131,Avocat,7.1,Agadir,1,0,2,0,Sableux,0.38
+AGR-132,Avocat,4.5,Kenitra,1,0,0,1,Limoneux,0.65
+AGR-133,Fruits_Rouges,3.1,Agadir,1,1,0,1,Argileux,0.8
+AGR-134,Fruits_Rouges,6.1,Moulay Bousselham,0,0,0,1,Limoneux,0.4
+AGR-135,Avocat,14.2,Kenitra,1,0,1,1,Argileux,0.72
+AGR-136,Avocat,5.9,Agadir,1,1,0,0,Sableux,0.4
+AGR-137,Avocat,8.5,Marrakech,1,0,0,0,Sableux,0.25
+AGR-138,Fruits_Rouges,11.0,Moulay Bousselham,0,0,0,1,Argileux,0.4
+AGR-139,Fruits_Rouges,6.4,Kenitra,0,0,1,0,Sableux,0.07
+AGR-140,Avocat,14.6,Moulay Bousselham,0,0,0,0,Argileux,0.0
+AGR-141,Avocat,14.5,Larache,1,1,1,0,Limoneux,0.47
+AGR-142,Fruits_Rouges,4.9,Moulay Bousselham,1,0,0,0,Sableux,0.25
+AGR-143,Avocat,8.2,Kenitra,0,1,2,0,Sableux,0.28
+AGR-144,Fruits_Rouges,5.6,Moulay Bousselham,1,0,0,0,Sableux,0.25
+AGR-145,Avocat,5.3,Moulay Bousselham,0,1,2,0,Limoneux,0.28
+AGR-146,Avocat,2.0,Larache,1,0,0,1,Limoneux,0.65
+AGR-147,Fruits_Rouges,9.7,Larache,1,0,3,0,Sableux,0.45
+AGR-148,Fruits_Rouges,8.3,Kenitra,1,0,3,1,Limoneux,0.85
+AGR-149,Avocat,2.2,Moulay Bousselham,1,1,0,0,Sableux,0.4
+AGR-150,Avocat,5.3,Kenitra,0,0,0,0,Sableux,0.0
+AGR-151,Fruits_Rouges,13.8,Moulay Bousselham,0,1,0,1,Limoneux,0.55
+AGR-152,Fruits_Rouges,4.7,Larache,1,1,1,0,Sableux,0.47
+AGR-153,Avocat,3.5,Kenitra,1,0,3,1,Limoneux,0.85
+AGR-154,Fruits_Rouges,8.1,Marrakech,1,0,2,0,Limoneux,0.38
+AGR-155,Avocat,14.8,Marrakech,1,1,2,0,Limoneux,0.53
+AGR-156,Avocat,4.8,Larache,1,0,0,0,Limoneux,0.25
+AGR-157,Avocat,10.6,Larache,1,0,0,0,Argileux,0.25
+AGR-158,Fruits_Rouges,11.8,Kenitra,1,0,1,0,Limoneux,0.32
+AGR-159,Avocat,4.7,Larache,0,1,2,1,Limoneux,0.68
+AGR-160,Avocat,11.3,Marrakech,0,0,1,0,Sableux,0.07
+AGR-161,Avocat,6.5,Agadir,1,1,0,1,Argileux,0.8
+AGR-162,Fruits_Rouges,10.0,Marrakech,1,0,2,0,Argileux,0.38
+AGR-163,Avocat,10.1,Marrakech,1,0,2,0,Argileux,0.38
+AGR-164,Fruits_Rouges,8.7,Marrakech,0,1,0,0,Argileux,0.15
+AGR-165,Fruits_Rouges,2.7,Kenitra,1,0,2,0,Sableux,0.38
+AGR-166,Avocat,12.8,Agadir,1,0,0,1,Limoneux,0.65
+AGR-167,Avocat,5.8,Marrakech,1,1,3,1,Limoneux,1.0
+AGR-168,Fruits_Rouges,4.0,Larache,1,0,0,0,Sableux,0.25
+AGR-169,Avocat,2.1,Larache,0,0,0,0,Argileux,0.0
+AGR-170,Avocat,9.5,Agadir,1,1,3,1,Limoneux,1.0
+AGR-171,Fruits_Rouges,10.6,Kenitra,1,0,0,0,Argileux,0.25
+AGR-172,Fruits_Rouges,1.7,Kenitra,0,0,0,1,Sableux,0.4
+AGR-173,Avocat,8.4,Kenitra,0,1,0,1,Sableux,0.55
+AGR-174,Fruits_Rouges,4.6,Marrakech,1,0,0,1,Argileux,0.65
+AGR-175,Fruits_Rouges,10.2,Kenitra,1,1,0,0,Sableux,0.4
+AGR-176,Avocat,3.9,Moulay Bousselham,0,1,1,0,Limoneux,0.22
+AGR-177,Avocat,10.8,Kenitra,1,1,0,1,Sableux,0.8
+AGR-178,Avocat,6.7,Larache,1,1,3,0,Sableux,0.6
+AGR-179,Avocat,14.1,Moulay Bousselham,1,1,0,1,Argileux,0.8
+AGR-180,Avocat,3.4,Larache,0,0,0,0,Argileux,0.0
+AGR-181,Fruits_Rouges,6.1,Marrakech,1,0,3,0,Argileux,0.45
+AGR-182,Fruits_Rouges,3.0,Agadir,1,0,2,1,Argileux,0.78
+AGR-183,Fruits_Rouges,14.0,Marrakech,1,0,1,0,Limoneux,0.32
+AGR-184,Avocat,13.3,Larache,1,0,2,1,Sableux,0.78
+AGR-185,Avocat,5.0,Moulay Bousselham,0,0,0,1,Argileux,0.4
+AGR-186,Avocat,10.4,Moulay Bousselham,1,0,0,0,Sableux,0.25
+AGR-187,Fruits_Rouges,12.5,Kenitra,1,0,2,1,Limoneux,0.78
+AGR-188,Avocat,9.0,Larache,0,1,1,0,Argileux,0.22
+AGR-189,Avocat,8.7,Kenitra,1,0,0,1,Argileux,0.65
+AGR-190,Avocat,4.8,Larache,0,0,1,0,Sableux,0.07
+AGR-191,Avocat,2.8,Marrakech,1,1,0,1,Argileux,0.8
+AGR-192,Avocat,13.6,Marrakech,1,0,0,1,Limoneux,0.65
+AGR-193,Avocat,13.7,Kenitra,1,1,0,0,Argileux,0.4
+AGR-194,Fruits_Rouges,10.0,Agadir,1,0,0,0,Sableux,0.25
+AGR-195,Avocat,6.1,Marrakech,0,0,2,0,Sableux,0.13
+AGR-196,Fruits_Rouges,6.2,Larache,1,1,1,0,Argileux,0.47
+AGR-197,Fruits_Rouges,11.3,Kenitra,1,1,1,0,Limoneux,0.47
+AGR-198,Avocat,13.6,Agadir,1,0,1,0,Sableux,0.32
+AGR-199,Fruits_Rouges,13.5,Kenitra,1,0,0,0,Argileux,0.25
+AGR-200,Fruits_Rouges,12.0,Agadir,1,0,0,0,Argileux,0.25
+AGR-201,Fruits_Rouges,10.2,Larache,0,0,0,1,Argileux,0.4
+AGR-202,Fruits_Rouges,2.6,Agadir,0,0,0,0,Limoneux,0.0
+AGR-203,Fruits_Rouges,3.7,Marrakech,1,0,0,0,Argileux,0.25
+AGR-204,Avocat,13.6,Kenitra,1,1,2,1,Argileux,0.93
+AGR-205,Avocat,9.7,Agadir,1,1,0,0,Argileux,0.4
+AGR-206,Avocat,1.6,Larache,0,1,0,1,Sableux,0.55
+AGR-207,Avocat,2.9,Agadir,1,1,3,1,Sableux,1.0
+AGR-208,Avocat,10.5,Kenitra,0,1,1,0,Sableux,0.22
+AGR-209,Avocat,1.6,Agadir,1,1,0,0,Limoneux,0.4
+AGR-210,Fruits_Rouges,3.7,Marrakech,1,0,1,1,Limoneux,0.72
+AGR-211,Avocat,8.9,Marrakech,1,0,0,0,Limoneux,0.25
+AGR-212,Fruits_Rouges,10.8,Marrakech,0,0,0,1,Sableux,0.4
+AGR-213,Avocat,10.3,Larache,0,1,0,0,Sableux,0.15
+AGR-214,Avocat,4.5,Marrakech,1,0,1,1,Sableux,0.72
+AGR-215,Fruits_Rouges,11.1,Larache,1,0,0,0,Sableux,0.25
+AGR-216,Fruits_Rouges,4.7,Moulay Bousselham,0,1,0,1,Argileux,0.55
+AGR-217,Fruits_Rouges,5.9,Marrakech,1,0,1,1,Limoneux,0.72
+AGR-218,Fruits_Rouges,11.6,Agadir,0,1,0,1,Argileux,0.55
+AGR-219,Avocat,10.3,Agadir,1,0,3,1,Limoneux,0.85
+AGR-220,Avocat,13.0,Kenitra,1,1,0,1,Sableux,0.8
+AGR-221,Fruits_Rouges,10.4,Moulay Bousselham,1,1,1,1,Limoneux,0.87
+AGR-222,Fruits_Rouges,9.2,Marrakech,0,1,1,0,Sableux,0.22
+AGR-223,Fruits_Rouges,2.8,Larache,1,1,3,0,Argileux,0.6
+AGR-224,Fruits_Rouges,6.5,Larache,1,1,1,1,Sableux,0.87
+AGR-225,Avocat,5.1,Larache,1,1,0,1,Sableux,0.8
+AGR-226,Fruits_Rouges,4.8,Larache,1,0,0,1,Sableux,0.65
+AGR-227,Fruits_Rouges,14.6,Moulay Bousselham,0,1,1,1,Limoneux,0.62
+AGR-228,Fruits_Rouges,6.8,Agadir,1,1,3,1,Sableux,1.0
+AGR-229,Avocat,13.5,Agadir,1,0,0,1,Limoneux,0.65
+AGR-230,Fruits_Rouges,10.0,Agadir,1,0,0,0,Argileux,0.25
+AGR-231,Avocat,12.2,Agadir,1,1,2,1,Argileux,0.93
+AGR-232,Avocat,8.3,Larache,1,0,0,1,Argileux,0.65
+AGR-233,Fruits_Rouges,9.3,Kenitra,1,0,1,1,Limoneux,0.72
+AGR-234,Fruits_Rouges,8.1,Marrakech,1,0,1,0,Sableux,0.32
+AGR-235,Avocat,4.1,Larache,1,1,2,1,Sableux,0.93
+AGR-236,Avocat,11.3,Larache,1,0,1,0,Argileux,0.32
+AGR-237,Fruits_Rouges,5.3,Agadir,1,0,0,1,Sableux,0.65
+AGR-238,Avocat,1.8,Larache,0,0,0,0,Argileux,0.0
+AGR-239,Fruits_Rouges,10.2,Larache,1,1,1,0,Argileux,0.47
+AGR-240,Fruits_Rouges,3.9,Agadir,1,0,2,0,Sableux,0.38
+AGR-241,Avocat,14.2,Moulay Bousselham,0,1,0,0,Limoneux,0.15
+AGR-242,Fruits_Rouges,14.4,Moulay Bousselham,1,0,2,1,Sableux,0.78
+AGR-243,Fruits_Rouges,13.9,Agadir,1,0,0,0,Argileux,0.25
+AGR-244,Fruits_Rouges,6.5,Agadir,1,0,1,1,Sableux,0.72
+AGR-245,Avocat,1.7,Marrakech,1,0,1,1,Sableux,0.72
+AGR-246,Fruits_Rouges,14.0,Larache,1,1,2,1,Limoneux,0.93
+AGR-247,Avocat,7.3,Moulay Bousselham,0,1,0,1,Limoneux,0.55
+AGR-248,Avocat,14.5,Marrakech,0,0,2,0,Sableux,0.13
+AGR-249,Fruits_Rouges,14.5,Larache,1,0,0,0,Argileux,0.25
+AGR-250,Avocat,13.0,Agadir,1,0,0,0,Sableux,0.25
+AGR-251,Avocat,5.5,Larache,1,0,0,0,Argileux,0.25
+AGR-252,Fruits_Rouges,6.7,Larache,0,1,0,1,Sableux,0.55
+AGR-253,Avocat,13.0,Agadir,0,1,0,0,Sableux,0.15
+AGR-254,Avocat,5.8,Larache,1,0,3,0,Argileux,0.45
+AGR-255,Fruits_Rouges,3.8,Moulay Bousselham,1,1,1,0,Sableux,0.47
+AGR-256,Fruits_Rouges,9.0,Larache,1,0,3,1,Limoneux,0.85
+AGR-257,Avocat,14.1,Agadir,1,0,1,0,Argileux,0.32
+AGR-258,Avocat,10.9,Moulay Bousselham,1,0,0,0,Limoneux,0.25
+AGR-259,Avocat,9.2,Larache,0,1,2,1,Argileux,0.68
+AGR-260,Fruits_Rouges,2.8,Marrakech,1,0,0,1,Sableux,0.65
+AGR-261,Fruits_Rouges,9.8,Kenitra,1,0,0,1,Limoneux,0.65
+AGR-262,Fruits_Rouges,14.9,Marrakech,1,0,2,1,Sableux,0.78
+AGR-263,Avocat,3.4,Kenitra,1,1,2,1,Limoneux,0.93
+AGR-264,Avocat,8.5,Marrakech,1,0,0,0,Limoneux,0.25
+AGR-265,Fruits_Rouges,13.3,Moulay Bousselham,0,1,0,0,Limoneux,0.15
+AGR-266,Fruits_Rouges,11.5,Moulay Bousselham,1,0,0,1,Argileux,0.65
+AGR-267,Fruits_Rouges,10.9,Agadir,0,0,2,0,Limoneux,0.13
+AGR-268,Fruits_Rouges,11.0,Moulay Bousselham,0,0,1,1,Limoneux,0.47
+AGR-269,Fruits_Rouges,6.4,Larache,0,0,2,0,Argileux,0.13
+AGR-270,Avocat,5.5,Moulay Bousselham,1,0,0,0,Sableux,0.25
+AGR-271,Fruits_Rouges,12.4,Larache,1,0,3,0,Limoneux,0.45
+AGR-272,Avocat,12.4,Kenitra,1,0,0,1,Sableux,0.65
+AGR-273,Fruits_Rouges,13.2,Larache,0,0,0,0,Sableux,0.0
+AGR-274,Fruits_Rouges,13.8,Moulay Bousselham,0,0,3,0,Limoneux,0.2
+AGR-275,Avocat,8.4,Marrakech,1,0,1,1,Limoneux,0.72
+AGR-276,Avocat,8.3,Moulay Bousselham,1,1,2,1,Limoneux,0.93
+AGR-277,Avocat,12.3,Kenitra,0,0,1,0,Argileux,0.07
+AGR-278,Fruits_Rouges,10.3,Kenitra,1,0,0,0,Argileux,0.25
+AGR-279,Avocat,11.0,Kenitra,0,1,1,1,Argileux,0.62
+AGR-280,Fruits_Rouges,12.2,Larache,1,0,2,0,Sableux,0.38
+AGR-281,Fruits_Rouges,13.5,Marrakech,0,1,1,1,Limoneux,0.62
+AGR-282,Avocat,6.1,Moulay Bousselham,0,1,0,1,Limoneux,0.55
+AGR-283,Fruits_Rouges,6.6,Moulay Bousselham,0,0,0,1,Argileux,0.4
+AGR-284,Avocat,2.8,Agadir,1,1,1,1,Argileux,0.87
+AGR-285,Avocat,9.3,Moulay Bousselham,1,0,0,0,Limoneux,0.25
+AGR-286,Fruits_Rouges,2.0,Marrakech,1,0,1,0,Sableux,0.32
+AGR-287,Fruits_Rouges,7.8,Kenitra,0,1,0,1,Limoneux,0.55
+AGR-288,Avocat,8.8,Larache,1,1,1,0,Limoneux,0.47
+AGR-289,Avocat,5.4,Marrakech,0,0,0,0,Sableux,0.0
+AGR-290,Avocat,9.5,Agadir,1,0,0,0,Argileux,0.25
+AGR-291,Avocat,1.9,Moulay Bousselham,1,1,2,0,Sableux,0.53
+AGR-292,Fruits_Rouges,2.0,Agadir,1,0,0,0,Sableux,0.25
+AGR-293,Fruits_Rouges,12.6,Marrakech,0,0,3,0,Limoneux,0.2
+AGR-294,Avocat,6.4,Larache,1,0,0,1,Limoneux,0.65
+AGR-295,Fruits_Rouges,3.2,Marrakech,0,0,3,1,Argileux,0.6
+AGR-296,Fruits_Rouges,8.6,Moulay Bousselham,0,1,3,0,Sableux,0.35
+AGR-297,Avocat,11.9,Larache,1,1,0,1,Argileux,0.8
+AGR-298,Avocat,4.4,Marrakech,0,1,1,1,Sableux,0.62
+AGR-299,Avocat,9.9,Agadir,1,1,0,0,Limoneux,0.4
+AGR-300,Fruits_Rouges,2.7,Moulay Bousselham,1,0,2,1,Sableux,0.78
