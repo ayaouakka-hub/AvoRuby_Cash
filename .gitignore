@@ -26,5 +26,7 @@ chroma_db/
 # Data
 data/
 
-# Models
-models/
+# Models and checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+AvoRuby_Back/models/
